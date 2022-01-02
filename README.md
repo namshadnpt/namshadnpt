@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Namshad
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning dart
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on laravel or node
 - 📫 <a href="https://www.namshad.me/" target="_blank">namshad.me</a>
 
